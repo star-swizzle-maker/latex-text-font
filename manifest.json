@@ -1,0 +1,10 @@
+{
+  "id": "latex-text-font",
+  "name": "LaTeX Text Font Changer",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Change the font of LaTeX \\text{} elements easily via CSS.",
+  "author": "Your Name",
+  "authorUrl": "https://your-website.com",
+  "isDesktopOnly": false
+}

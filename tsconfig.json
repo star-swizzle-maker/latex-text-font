@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "./",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": ["./main.ts"],  // 현재 폴더의 main.ts 포함
+  "exclude": ["node_modules"]  // node_modules 폴더 제외
+}
